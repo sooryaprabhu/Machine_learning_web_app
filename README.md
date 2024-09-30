@@ -1,5 +1,6 @@
 **Multiple Disease Prediction Model (Machine Learning Project)**
 
+![image](https://github.com/user-attachments/assets/ba43ccce-adcf-40ec-a859-370cb5a98ac9)
 
 This project leverages advanced machine learning algorithms to predict three major diseases: diabetes, heart disease, and Parkinson’s disease. By inputting various patient parameters (such as age, glucose levels, blood pressure, etc.), the model provides predictions that may assist in early detection and diagnosis. The main goal of the project is to aid in improving health outcomes through data-driven insights and early intervention. The model is deployed using Heroku, making it easily accessible to users via a web interface.
 
