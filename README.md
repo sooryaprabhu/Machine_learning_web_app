@@ -17,11 +17,3 @@ Cardiovascular diseases (CVDs) are the number one cause of death globally. They 
 3.Parkinson’s Disease:
 Parkinson’s is a neurodegenerative disorder affecting movement, speech, and other functions. With over 10 million people worldwide affected by Parkinson’s disease, there is an urgent need for early detection and intervention. By predicting the likelihood of developing Parkinson’s, patients can seek treatment earlier, potentially delaying the progression of the disease.
 
-**Key Technologies & Skills:**
-
-	•	Machine Learning Algorithms: Utilized Random Forest, SVM, and Logistic Regression to create highly accurate models for each disease prediction.
-	•	TensorFlow & Keras: Leveraged for building and training deep learning models, providing flexibility in experimenting with different neural network architectures.
-	•	Object-Oriented Programming (OOP): Followed OOP principles to build scalable and maintainable code.
-	•	Python (Programming Language): Core language for developing machine learning models, data preprocessing, and visualization.
-	•	Anaconda & Jupyter Notebook: Used for development, analysis, and model training in a flexible, interactive environment.
-	•	Deployment via Heroku: The model is deployed on Heroku, making it available online for public use, enabling users to upload patient data and get disease predictions in real time.
